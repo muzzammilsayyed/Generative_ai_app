@@ -34,7 +34,7 @@ This project is a simple Flask-based web application that integrates OpenAI's GP
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/generative-ai-app.git
+   git clone 
    cd generative-ai-app
 2. Set Up a Virtual Environment
    ```bash
